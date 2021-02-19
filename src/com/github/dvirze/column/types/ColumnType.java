@@ -1,4 +1,4 @@
-package com.github.dvirze.column.typs;
+package com.github.dvirze.column.types;
 
 public enum ColumnType {
     STRING,

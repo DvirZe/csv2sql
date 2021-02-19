@@ -1,9 +1,9 @@
 package com.github.dvirze.column;
 
-import com.github.dvirze.column.typs.ColumnFloat;
-import com.github.dvirze.column.typs.ColumnInt;
-import com.github.dvirze.column.typs.ColumnString;
-import com.github.dvirze.column.typs.ColumnType;
+import com.github.dvirze.column.types.ColumnFloat;
+import com.github.dvirze.column.types.ColumnInt;
+import com.github.dvirze.column.types.ColumnString;
+import com.github.dvirze.column.types.ColumnType;
 
 public class ColumnBuilder {
 

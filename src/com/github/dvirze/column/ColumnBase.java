@@ -1,6 +1,6 @@
 package com.github.dvirze.column;
 
-import com.github.dvirze.column.typs.ColumnType;
+import com.github.dvirze.column.types.ColumnType;
 
 public abstract class ColumnBase implements Column {
 

@@ -1,4 +1,4 @@
-package com.github.dvirze.column.typs;
+package com.github.dvirze.column.types;
 
 import com.github.dvirze.column.ColumnBase;
 
