@@ -11,6 +11,7 @@ For now, the tool only support in creating insert commends.
 
 # Input parameter
 The input parameter is CSV file with the name of the table as the name of the file.
+
 The format of the CSV file should look like this:
 
 
@@ -22,6 +23,7 @@ The format of the CSV file should look like this:
 
 ## Types
 For creating valid insert text in the .sql file, you have to supply the type of the column.
+
 The supported types are:
  - Strings
  - Int
@@ -29,15 +31,21 @@ The supported types are:
 
 # Example
 **input:**
+
 Filename: table.csv
+
 File data:
+
 | col1 (string) | col2(float) |
 |--|--|
 |1234|1234|
 
 **output**:
+
 Filename: table.sql (with the same location as the .csv file)
+
 file date:
+
 ```sql
 insert into table (col1, col2)
 values ('1234', 1234.0)
