@@ -1,4 +1,4 @@
-![SQL2CSV](sql2csv.png)
+![CSV2SQL](csv2sql.png)
 
 ***Simple way to convert .csv files into .sql file***
 ***
