@@ -27,8 +27,9 @@ For creating valid insert text in the .sql file, you have to supply the type of 
 The supported types are:
  - Strings
  - Int
- - Float
-
+ - Float 
+ - None (for general use, like using getDate())
+ 
 # Example
 **input:**
 

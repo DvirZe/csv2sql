@@ -21,7 +21,7 @@ public class Main {
         |         31 |         32 |         33 |         34 |
         |         41 |         42 |         43 |         44 |
         +------------+------------+------------+------------+
-        type = text, integer, float
+        type = text, integer, float, none
      */
 
     public static void main(String[] args) {
